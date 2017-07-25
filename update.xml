@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Updates>
 	<Change_Icon>
-		<version>3.0.0.1</version>
+		<version>3.1.0.0</version>
 		<url>https://github.com/OriBenHur/Change-Icon/releases/latest</url>
 		<change_log>
 Change Log:
+v.3.1.0.0:
+Fixed Some Bugs.
+Improved IMDB Lookup and Added new animation To indicate work is in process.
+
 v.3.0.0.0:
 Add IMDB Artwork Download Support
 		</change_log>
