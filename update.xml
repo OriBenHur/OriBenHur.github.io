@@ -6,8 +6,9 @@
 		<change_log>
 Change Log:
 v.3.1.0.0:
-Fixed Some Bugs.
-Improved IMDB Lookup and Added new animation To indicate work is in process.
+*Fixed Some Bugs.
+*Improved IMDB lookup.
+*Added new animation to indicate work is in process.
 
 v.3.0.0.0:
 Add IMDB Artwork Download Support
