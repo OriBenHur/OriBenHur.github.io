@@ -40,4 +40,14 @@ v.1.3.1.0:
 Added ErrorLog for Better Debugging
 		</change_log>
 	</SubDownloader>
+	
+	<BlackScreenDetect>
+		<version>1.0.0.0</version>
+		<url>https://github.com/OriBenHur/BlackScreenDetect/releases/latest</url>
+		<change_log>
+Change Log:
+v.1.0.0.0:
+First Beta
+		</change_log>
+	</BlackScreenDetect>
 </Updates>
