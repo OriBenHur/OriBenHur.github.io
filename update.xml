@@ -46,6 +46,11 @@ Added ErrorLog for Better Debugging
 		<url>https://github.com/OriBenHur/BlackScreenDetect/releases/latest</url>
 		<change_log>
 Change Log:
+v.1.5.0.0:
+Added Sound effect When Process is done (can be disabled from the setting page)
+Added the ability to to Hide the main window By double clicking on the animation and Show it again the same way
+also now you can move the animation resize it and change its opacity.
+
 v.1.0.0.0:
 First Beta
 		</change_log>
