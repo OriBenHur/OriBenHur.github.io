@@ -42,10 +42,14 @@ Added ErrorLog for Better Debugging
 	</SubDownloader>
 	
 	<BlackScreenDetect>
-		<version>1.6.0.0</version>
+		<version>1.6.5.0</version>
 		<url>https://github.com/OriBenHur/BlackScreenDetect/releases/latest</url>
 		<change_log>
 Change Log:
+v.1.6.5.0:
+Added progress indection to the log area.
+Also added notification icon for when the program is in hide mode.
+
 v.1.6.0.0:
 Two new items have been added to the right-click menu
 Abort and Abort All
