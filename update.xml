@@ -42,12 +42,15 @@ Added ErrorLog for Better Debugging
 	</SubDownloader>
 	
 	<BlackScreenDetect>
-		<version>1.6.6.2</version>
+		<version>1.7.0.0</version>
 		<url>https://github.com/OriBenHur/BlackScreenDetect/releases/latest</url>
 		<change_log>
 Change Log:
+v.1.7.0.0
+Major Bugs Fix
+
 v.1.6.6.2:
-Minor bug fix
+Minor Bug Fix
 
 v.1.6.6.1:
 New Styling Abilities
