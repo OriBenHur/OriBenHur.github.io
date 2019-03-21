@@ -16,8 +16,13 @@ Add IMDB Artwork Download Support
 	</Change_Icon>
 	
 	<VideoRenamer>
-		<version>1.0.0.0</version>
+		<version>1.2.1.0</version>
 		<url>https://github.com/OriBenHur/VideoRenamer/releases/latest</url>
+		<change_log>
+Change Log:
+v.1.2.1.0:
+Added support for year in series name
+		</change_log>
 	</VideoRenamer>
 	
 	<SubDownloader>
